@@ -1,0 +1,4 @@
+README:
+1) please install visual studio 2019 for C++ before running this program
+2) run the program and turn on whatsapp to find the links u sent to Brandon
+3) happy coding I guess
